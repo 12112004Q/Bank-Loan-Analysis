@@ -85,7 +85,7 @@ The dashboard monitors several critical performance indicators:
 
 **Saurabh Khutela**  
 📧 khutelasaurabh@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/saurabh-khutela)
+🔗 [`LinkedIn`](www.linkedin.com/in/saurabh-khutela)
 
 ---
 
